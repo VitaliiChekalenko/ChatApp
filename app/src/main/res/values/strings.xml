@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChekalenkoVitaliiMessenger</string>
+    <string name="send_button_name">Відправити</string>
+    <string name="edit_text_hint_text">Введіть текст тут...</string>
+</resources>
